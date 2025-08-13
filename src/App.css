@@ -4,6 +4,11 @@
   margin: 0;
 }
 
+.error {
+  color: red;
+  font-size: 20px;
+}
+
 :root {
   --primary-color: hsl(0, 60%, 20%);
   --secondary-color: hsl(0, 60%, 35%);
